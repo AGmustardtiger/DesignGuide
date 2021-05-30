@@ -1,0 +1,23 @@
+html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: blanchedalmond;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 40px;
+}
