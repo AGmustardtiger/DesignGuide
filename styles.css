@@ -16,6 +16,7 @@ header {
     top: 0;
     margin: 0;
     padding: 10px;
+    z-index: 1;
 }
 
 img {
@@ -37,6 +38,104 @@ main {
     padding: 10px;
     position: relative;
     top: 250px;
+}
+
+.colourContainer {
+    display: inline-block;
+}
+
+.brown {
+    display: block;
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.strengthContainer {
+    margin: 25px;
+}
+
+.brown100 {
+    background-color: rgba(165, 42, 42, 1);
+    height: 100px;
+    width: 150px;
+}
+
+.brown80 {
+    background-color: rgba(165, 42, 42, 0.8);
+    height: 100px;
+    width: 150px;
+}
+
+.brown60 {
+    background-color: rgba(165, 42, 42, 0.6);
+    height: 100px;
+    width: 150px;
+}
+
+.brown40 {
+    background-color: rgba(165, 42, 42, 0.4);
+    height: 100px;
+    width: 150px;
+}
+
+.brown20 {
+    background-color: rgba(165, 42, 42, 0.2);
+    height: 100px;
+    width: 150px;
+}
+
+
+.blue {
+    display: block;
+    background-color: rgba(0, 0, 255, 1);
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.blue100 {
+    background-color: rgba(0, 0, 255, 1);
+    height: 100px;
+    width: 150px;
+}
+
+.blue80 {
+    background-color: rgba(0, 0, 255, 0.8);
+    height: 100px;
+    width: 150px;
+}
+
+.blue60 {
+    background-color: rgba(0, 0, 255, 0.6);
+    height: 100px;
+    width: 150px;
+}
+
+.blue40 {
+    background-color: rgba(0, 0, 255, 0.4);
+    height: 100px;
+    width: 150px;
+}
+
+.blue20 {
+    background-color: rgba(0, 0, 255, 0.2);
+    height: 100px;
+    width: 150px;
+}
+
+.colourDetails {
+    border-bottom: 5px solid black;
+    width: 200px;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
 }
 
 footer {
