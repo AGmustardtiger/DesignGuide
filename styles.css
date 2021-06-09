@@ -237,6 +237,7 @@ main {
 }
 
 .neumopanel {
+    padding: 30px;
     border-radius: 57px;
     background: #eeeeee;
     box-shadow:  -27px 27px 54px #ababab,
