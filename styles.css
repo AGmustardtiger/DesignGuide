@@ -253,7 +253,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: cadetblue;
+    background-color: rgba(154, 140, 152, 0.8);
     color: whitesmoke;
     padding: 10px;
 }
