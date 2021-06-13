@@ -34,7 +34,8 @@ img {
 
 nav {
     float: right;
-    display: inline;
+    display: block;
+    margin-right: 50px;
 }
 
 nav li {
@@ -242,6 +243,10 @@ main {
     background: #eeeeee;
     box-shadow:  -27px 27px 54px #ababab,
              27px -27px 54px #ffffff;
+}
+
+#Typography {
+    margin-top: 350px;
 }
 
 footer {
