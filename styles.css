@@ -52,7 +52,7 @@ main {
 
 .colour1 {
     display: block;
-    background-color: rgba(34, 34, 59, 1);
+    background-color: rgba(106, 76, 147, 1);
     height: 100px;
     width: 100px;
     margin: 5px;
@@ -70,29 +70,29 @@ main {
 }
 
 .colour1-100 {
-    background-color: rgba(34, 34, 59, 1);
+    background-color: rgba(106, 76, 147, 1);
 }
 
 .colour1-80 {
-    background-color: rgba(34, 34, 59, 0.8);
+    background-color: rgba(106, 76, 147, 0.8);
 }
 
 .colour1-60 {
-    background-color: rgba(34, 34, 59, 0.6);
+    background-color: rgba(106, 76, 147, 0.6);
 }
 
 .colour1-40 {
-    background-color: rgba(34, 34, 59, 0.4);
+    background-color: rgba(106, 76, 147, 0.4);
 }
 
 .colour1-20 {
-    background-color: rgba(34, 34, 59, 0.2);
+    background-color: rgba(106, 76, 147, 0.2);
 }
 
 
 .colour2 {
     display: block;
-    background-color: rgba(74, 78, 105, 1);
+    background-color: rgba(25, 130, 196, 1);
     height: 100px;
     width: 100px;
     margin: 5px;
@@ -101,28 +101,28 @@ main {
 }
 
 .colour2-100 {
-    background-color: rgba(74, 78, 105, 1);
+    background-color: rgba(25, 130, 196, 1);
 }
 
 .colour2-80 {
-    background-color: rgba(74, 78, 105, 0.8);
+    background-color: rgba(25, 130, 196, 0.8);
 }
 
 .colour2-60 {
-    background-color: rgba(74, 78, 105, 0.6);
+    background-color: rgba(25, 130, 196, 0.6);
 }
 
 .colour2-40 {
-    background-color: rgba(74, 78, 105, 0.4);
+    background-color: rgba(25, 130, 196, 0.4);
 }
 
 .colour2-20 {
-    background-color: rgba(74, 78, 105, 0.2);
+    background-color: rgba(25, 130, 196, 0.2);
 }
 
 .colour3 {
     display: block;
-    background-color: rgba(154, 140, 152, 1);
+    background-color: rgba(138, 201, 38, 1);
     height: 100px;
     width: 100px;
     margin: 5px;
@@ -131,28 +131,28 @@ main {
 }
 
 .colour3-100 {
-    background-color: rgba(154, 140, 152, 1);
+    background-color: rgba(138, 201, 38, 1);
 }
 
 .colour3-80 {
-    background-color: rgba(154, 140, 152, 0.8);
+    background-color: rgba(138, 201, 38, 0.8);
 }
 
 .colour3-60 {
-    background-color: rgba(154, 140, 152, 0.6);
+    background-color: rgba(138, 201, 38, 0.6);
 }
 
 .colour3-40 {
-    background-color: rgba(154, 140, 152, 0.4);
+    background-color: rgba(138, 201, 38, 0.4);
 }
 
 .colour3-20 {
-    background-color: rgba(154, 140, 152, 0.2);
+    background-color: rgba(138, 201, 38, 0.2);
 }
 
 .colour4 {
     display: block;
-    background-color: rgba(201, 173, 167, 1);
+    background-color: rgba(255, 202, 58, 1);
     height: 100px;
     width: 100px;
     margin: 5px;
@@ -161,28 +161,28 @@ main {
 }
 
 .colour4-100 {
-    background-color: rgba(201, 173, 167, 1);
+    background-color: rgba(255, 202, 58, 1);
 }
 
 .colour4-80 {
-    background-color: rgba(201, 173, 167, 0.8);
+    background-color: rgba(255, 202, 58, 0.8);
 }
 
 .colour4-60 {
-    background-color: rgba(201, 173, 167, 0.6);
+    background-color: rgba(255, 202, 58, 0.6);
 }
 
 .colour4-40 {
-    background-color: rgba(201, 173, 167, 0.4);
+    background-color: rgba(255, 202, 58, 0.4);
 }
 
 .colour4-20 {
-    background-color: rgba(201, 173, 167, 0.2);
+    background-color: rgba(255, 202, 58, 0.2);
 }
 
 .colour5 {
     display: block;
-    background-color: rgba(242, 233, 228, 1);
+    background-color: rgba(255, 89, 94, 1);
     height: 100px;
     width: 100px;
     margin: 5px;
@@ -191,23 +191,23 @@ main {
 }
 
 .colour5-100 {
-    background-color: rgba(242, 233, 228, 1);
+    background-color: rgba(255, 89, 94, 1);
 }
 
 .colour5-80 {
-    background-color: rgba(242, 233, 228, 0.8);
+    background-color: rgba(255, 89, 94, 0.8);
 }
 
 .colour5-60 {
-    background-color: rgba(242, 233, 228, 0.6);
+    background-color: rgba(255, 89, 94, 0.6);
 }
 
 .colour5-40 {
-    background-color: rgba(242, 233, 228, 0.4);
+    background-color: rgba(255, 89, 94, 0.4);
 }
 
 .colour5-20 {
-    background-color: rgba(242, 233, 228, 0.2);
+    background-color: rgba(255, 89, 94, 0.2);
 }
 
 .colourDetails {
@@ -216,7 +216,6 @@ main {
 }
 
 .fontcontainer {
-    border-top: 2px solid grey;
     border-bottom: 2px solid grey;
     display: inline-block;
     padding: 5px;
@@ -243,14 +242,15 @@ main {
 }
 
 #Typography {
-    margin-top: 350px;
+    margin-top: 50px;
+    padding: 50px 250px;
 }
 
 footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: rgba(154, 140, 152, 0.8);
+    background-color: rgba(106, 76, 147, 0.6);
     color: whitesmoke;
     padding: 10px;
 }
